@@ -2,7 +2,8 @@
 
 ## 필수과제: 종합 프로젝트
 
-[종합프로젝트.pdf](https://github.com/user-attachments/files/28642629/default.pdf)
+[최종 종합프로젝트.pdf](https://github.com/user-attachments/files/28660000/default.pdf)
+
 
 ---
 
